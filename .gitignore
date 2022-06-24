@@ -1,0 +1,9 @@
+dataset/source/*
+dataset/test.txt
+dataset/train.txt
+dataset/valid.txt
+dataset/corpus_preprocessing.py
+dataset/data.py
+dataset/test.py
+dataset/bulid_vocab.py
+
